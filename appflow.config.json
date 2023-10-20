@@ -4,7 +4,7 @@
         {
             "appId": "d3abf68e",
             "dependencyInstallCommand": ". /usr/local/nvm/nvm.sh; nvm install 10; nvm use 10; npm ci",
-            "webBuildCommand": ". /usr/local/nvm/nvm.sh; nvm use 10; npm run build"
+            "webBuildCommand": ". /usr/local/nvm/nvm.sh; nvm install 10; nvm use 10; npm run build"
         }
     ]
 }
